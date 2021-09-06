@@ -21,6 +21,7 @@ const App = () => {
                     {/*<Route path='/setting' />*/}
 
 
+                        <lalal/>
                     {/*<Profile/>*/}
                     {/*<Dialogs/>*/}
                 </div>
